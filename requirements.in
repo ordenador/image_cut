@@ -1,0 +1,9 @@
+opencv-python
+opencv-python-headless
+matplotlib
+torch
+torchvision
+pandas
+requests
+numpy-string-indexed
+git+https://github.com/facebookresearch/detectron2.git
